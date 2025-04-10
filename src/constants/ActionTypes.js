@@ -1,0 +1,4 @@
+export const ActionTypes = {
+    FETCH_PEOPLE: 'FETCH_PEOPLE',
+    FETCH_PEOPLE_SUCCESS: 'FETCH_PEOPLE_SUCCESS'
+};
